@@ -54,6 +54,7 @@ background-image: url(./Assets/images/black.jpg);
   margin-top: 300px;
   margin-left: 550px;
   box-shadow: 3px 5px 5px 6px black;
+  color: white;
   
 }
 .App {
@@ -68,6 +69,7 @@ h4{
   width: 400px;
   position: absolute;
   left:150px;
+  color: white;
 }
 #createimg{
   height: 500px;
@@ -78,6 +80,7 @@ h4{
   width: 500px;
   position: absolute;
   left:150px;
+   color: white;
 }
 h2{
   text-align: center;
@@ -86,6 +89,7 @@ h2{
   color: white;
   border-radius: 8px;
   box-shadow: 5px 5px 5px white;
+   color: white;
 }
 #home{
   margin-top: 100px;
@@ -97,6 +101,7 @@ h2{
   width: 800px;
   margin-left: 400px;
   border-radius: 50px;
+   color: white;
 }
 #span-1{
   color: rgb(184, 238, 24);
@@ -118,6 +123,7 @@ h2{
  #input{
   width:300px;
   margin-left: 10px;
+    color: white;
   
 }
 #submitbtn{
@@ -125,12 +131,14 @@ h2{
   left: 80px;
   top:10px;
   color: white;
+  background-color: green;
 }
 #resetbtn{
   position: relative;
   left: 120px;
   top:10px;
   color: white;
+   background-color: red;
 }
 form{
   position: absolute;
@@ -141,12 +149,14 @@ form{
   border-radius: 6px;
   padding: 15px;
   box-shadow: 3px 5px 5px 3px black;
+  color: black;
 
   
 }
 #nav{
  
   background-color: #00DBDE;
+  color: white
   
 }
 #nav-list{
@@ -209,5 +219,5 @@ form{
 
 tr:th{
 
-  color: blue;
+  color: yellow;
 }
